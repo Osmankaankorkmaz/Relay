@@ -1,0 +1,38 @@
+[
+  {
+    "id": "x_d078a5d9de9059a5",
+    "templateSlug": "dogum-gunu-pop",
+    "theme": "minimal",
+    "vars": {
+      "senderName": "Bedirhan",
+      "receiverName": "rgdrggrrdg",
+      "message": "drgdrggdrdrg"
+    },
+    "ref": "Bedirhan",
+    "createdAt": "2026-01-03T12:11:46.866Z"
+  },
+  {
+    "id": "x_76d62808c3d47d3a",
+    "templateSlug": "yeni-yil-snow",
+    "theme": "neonGlass",
+    "vars": {
+      "senderName": "Bedirhan",
+      "receiverName": "ghjgghjjgh",
+      "message": "hgjhghjgjhg"
+    },
+    "ref": "Bedirhan",
+    "createdAt": "2026-01-03T14:13:42.640Z"
+  },
+  {
+    "id": "x_3dd8ffd8d64ee1b4",
+    "templateSlug": "yeni-yil-snow",
+    "theme": "neonGlass",
+    "vars": {
+      "senderName": "Bedirhan",
+      "receiverName": "dfggfggdrr",
+      "message": "drgdgrdrgrgrdgrdggdrdrg"
+    },
+    "ref": "Bedirhan",
+    "createdAt": "2026-01-03T21:37:53.001Z"
+  }
+]

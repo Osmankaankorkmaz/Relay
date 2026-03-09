@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c_holiday",
+    "title": "Holiday Pack",
+    "desc": "Özel günler için hızlı başlangıç.",
+    "templateSlugs": ["yeni-yil-snow", "dogum-gunu-pop"]
+  },
+  {
+    "id": "c_team",
+    "title": "Team Pack",
+    "desc": "Ekip içi onboarding + kudos akışları.",
+    "templateSlugs": ["kudos-takdir", "hos-geldin-onboarding"]
+  },
+  {
+    "id": "c_events",
+    "title": "Events Pack",
+    "desc": "Davet ve topluluk akışları.",
+    "templateSlugs": ["meetup-rsvp"]
+  }
+]

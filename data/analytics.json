@@ -1,0 +1,18 @@
+{
+  "templates": {
+    "dogum-gunu-pop": {
+      "views": 1,
+      "uses": 1,
+      "shares": 2
+    },
+    "yeni-yil-snow": {
+      "views": 3,
+      "uses": 2,
+      "shares": 0
+    }
+  },
+  "experiences": {
+    "created": 3,
+    "opened": 1
+  }
+}

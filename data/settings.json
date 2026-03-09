@@ -1,0 +1,19 @@
+{
+  "brand": {
+    "productName": "Relay",
+    "byline": "by Argena Tech Labs",
+    "companyName": "Argena Tech Labs"
+  },
+  "defaults": {
+    "defaultTheme": "neonGlass",
+    "defaultTemplateSlug": "yeni-yil-snow",
+    "defaultSenderName": "Bedirhan"
+  },
+  "flags": {
+    "enableTrending": true,
+    "enableCollections": true,
+    "enableChangelog": true,
+    "enableSubmissions": true,
+    "enableCommandPalette": true
+  }
+}

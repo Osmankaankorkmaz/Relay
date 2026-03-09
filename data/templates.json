@@ -1,0 +1,82 @@
+[
+  {
+    "id": "t_newyear_snow",
+    "slug": "yeni-yil-snow",
+    "title": "Yeni Yıl • Snow",
+    "category": "Holiday",
+    "short": "İsimli ekran + ölçülü sezon hissi.",
+    "variables": ["senderName", "receiverName", "message"],
+    "themes": ["neonGlass", "aurora", "minimal"],
+    "featured": true
+  },
+  {
+    "id": "t_birthday_pop",
+    "slug": "dogum-gunu-pop",
+    "title": "Doğum Günü • Pop",
+    "category": "Birthday",
+    "short": "Rengarenk ama temiz: kişisel kutlama.",
+    "variables": ["senderName", "receiverName", "message"],
+    "themes": ["neonGlass", "candy", "minimal"],
+    "featured": true
+  },
+  {
+    "id": "t_meetup_rsvp",
+    "slug": "meetup-rsvp",
+    "title": "Meetup RSVP",
+    "category": "Invite",
+    "short": "Davet + tarih + konum + RSVP tek linkte.",
+    "variables": ["senderName", "receiverName", "eventTitle", "eventDate", "location", "message"],
+    "themes": ["aurora", "neonGlass"],
+    "featured": true
+  },
+  {
+    "id": "t_kudos",
+    "slug": "kudos-takdir",
+    "title": "Kudos / Takdir",
+    "category": "Work",
+    "short": "Kurumsal ama sıcak bir teşekkür kartı.",
+    "variables": ["senderName", "receiverName", "message"],
+    "themes": ["minimal", "aurora", "neonGlass"],
+    "featured": true
+  },
+  {
+    "id": "t_onboarding",
+    "slug": "hos-geldin-onboarding",
+    "title": "Hoş Geldin • Onboarding",
+    "category": "Onboarding",
+    "short": "Yeni katılan için hoş geldin + hızlı bağ kurma.",
+    "variables": ["senderName", "receiverName", "teamName", "message"],
+    "themes": ["minimal", "aurora"],
+    "featured": false
+  },
+  {
+    "id": "t_quiz_3",
+    "slug": "mini-quiz-3",
+    "title": "Mini Quiz (3 Soru)",
+    "category": "Education",
+    "short": "Paylaşılabilir mini quiz deneyimi.",
+    "variables": ["senderName", "receiverName", "message"],
+    "themes": ["candy", "neonGlass"],
+    "featured": false
+  },
+  {
+    "id": "t_launch",
+    "slug": "launch-teaser",
+    "title": "Launch • Teaser",
+    "category": "Marketing",
+    "short": "Ürün duyurusu / feature spotlight tek sayfa.",
+    "variables": ["senderName", "receiverName", "productName", "message"],
+    "themes": ["aurora", "minimal"],
+    "featured": false
+  },
+  {
+    "id": "t_linkhub",
+    "slug": "link-hub",
+    "title": "Link Hub",
+    "category": "Utility",
+    "short": "Linklerini tek kartta topla (bio link).",
+    "variables": ["senderName", "receiverName", "message"],
+    "themes": ["minimal", "neonGlass"],
+    "featured": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "minimal",
+    "name": "Minimal",
+    "bg": "bg-white",
+    "card": "bg-white/80 border border-black/10",
+    "accent": "from-zinc-900 to-zinc-700",
+    "text": "text-zinc-900",
+    "muted": "text-zinc-600"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "bg": "bg-[#070712] text-white",
+    "card": "bg-white/5 border border-white/12 backdrop-blur-xl",
+    "accent": "from-indigo-500 via-fuchsia-500 to-amber-400",
+    "text": "text-white",
+    "muted": "text-white/70"
+  },
+  {
+    "id": "neonGlass",
+    "name": "Neon Glass",
+    "bg": "bg-[#070712] text-white",
+    "card": "bg-white/5 border border-white/12 backdrop-blur-xl",
+    "accent": "from-fuchsia-500 via-cyan-400 to-emerald-400",
+    "text": "text-white",
+    "muted": "text-white/70"
+  },
+  {
+    "id": "candy",
+    "name": "Candy",
+    "bg": "bg-[#070712] text-white",
+    "card": "bg-white/5 border border-white/12 backdrop-blur-xl",
+    "accent": "from-rose-500 via-fuchsia-500 to-purple-500",
+    "text": "text-white",
+    "muted": "text-white/70"
+  }
+]
